@@ -1,6 +1,4 @@
-- 👋 Hola, soy Marcos
-- Técnico electrónico
-- Rock !!
+
 
 <!---
 MarcosB182/MarcosB182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
